@@ -1,0 +1,25 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 12.0.7600.16667"/>
+        <meta name="ItemCount" content="13"/>
+        <title>Today</title>
+    </head>
+    <body>
+        <seq>
+            <media src="..\..\content\Green Day Rock Band - Opening Cinematic.wmv"/>
+            <media src="..\..\content\Half Life 2 OSX - Free Yourself.wmv"/>
+            <media src="..\..\content\Kane &amp; Lynch 2 DD - Cops &apos;n Robbers.wmv"/>
+            <media src="..\..\content\Pure Futbol - Launch.wmv"/>
+            <media src="..\..\content\Puzzle Quest 2 - Dark Orc Battle.wmv"/>
+            <media src="..\..\content\SEGA Genesis Ultimate Collection - Series 1.wmv"/>
+            <media src="..\..\content\Splatterhouse - E3 2010.wmv"/>
+            <media src="..\..\content\Split Second - Launch.wmv"/>
+            <media src="..\..\content\SW The Old Republic - Hoth.wmv"/>
+            <media src="..\..\content\Team Fortress 2 - Engineer Update.wmv"/>
+            <media src="..\..\content\Wildlife.wmv"/>
+            <media src="..\..\content\Battlefield Bad Company 2 - Onslaught Mode.wmv"/>
+            <media src="..\..\content\Blur Fan Targets Tutorial.wmv"/>
+        </seq>
+    </body>
+</smil>
